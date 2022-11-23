@@ -23,5 +23,10 @@
 
 ### Решение:
 
-1. [Ссылка на репозиторий](https://github.com/Sergei945/FinishProjectSpecial)
-2. 
+## 1. Создал репозиторий на GitHub 
+## [Ссылка на репозиторий](https://github.com/Sergei945/FinishProjectSpecial)
+#
+## 2. ![Описание картинки с котиком](MyAlgoritm.jpg)
+
+[Загрузить файл с диаграммой](https://github.com/Sergei945/FinishProjectSpecial/diagrams.drawio "download")
+3 
