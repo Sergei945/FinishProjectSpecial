@@ -1,0 +1,15 @@
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\bin\Debug\net6.0\finProject.exe
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\bin\Debug\net6.0\finProject.deps.json
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\bin\Debug\net6.0\finProject.runtimeconfig.json
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\bin\Debug\net6.0\finProject.dll
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\bin\Debug\net6.0\finProject.pdb
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\obj\Debug\net6.0\finProject.csproj.AssemblyReference.cache
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\obj\Debug\net6.0\finProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\obj\Debug\net6.0\finProject.AssemblyInfoInputs.cache
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\obj\Debug\net6.0\finProject.AssemblyInfo.cs
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\obj\Debug\net6.0\finProject.csproj.CoreCompileInputs.cache
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\obj\Debug\net6.0\finProject.dll
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\obj\Debug\net6.0\refint\finProject.dll
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\obj\Debug\net6.0\finProject.pdb
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\obj\Debug\net6.0\finProject.genruntimeconfig.cache
+C:\Users\Avel8\OneDrive\GeekBrains\Special\FinishProjectSpecial\finProject\obj\Debug\net6.0\ref\finProject.dll
